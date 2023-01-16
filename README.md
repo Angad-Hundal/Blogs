@@ -11,4 +11,4 @@ npm start
 
 ![2023-01-16 (14)](https://user-images.githubusercontent.com/90863456/212738323-26bb25db-a736-4133-affe-b2f2ff019080.png)
 
-developed by follwing the tutorials from https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+developed by following the tutorials from https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
